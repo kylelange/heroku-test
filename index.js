@@ -1,3 +1,4 @@
+require ('newrelic');
 var cool = require('cool-ascii-faces');
 var express = require('express');
 var app = express();
