@@ -18,7 +18,8 @@ Hat Tip: This app uses code from the [heroku tutorial](https://devcenter.heroku.
 * how to deploy and open the app
 * how to view terminal logs
 * modify/create the procfile
-*
+* how to set up the New Relic [Add-on](https://docs.newrelic.com/docs/agents/nodejs-agent/hosting-services/nodejs-agent-heroku)
+* 
 
 
 
