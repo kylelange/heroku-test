@@ -1,13 +1,13 @@
 {
-  "name": "node-js-getting-started",
+  "name": "heroku-test-for-N",
   "version": "0.2.6",
-  "description": "A sample Node.js app using Express 4",
+  "description": "A cranky customer learns how to use env. variables.",
   "engines": {
     "node": "6.10.2"
   },
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "cool-ascii-faces": "1.3.4",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/kylelange/heroku-test"
   },
   "keywords": [
     "node",

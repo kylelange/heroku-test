@@ -1,8 +1,7 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "name": "Express NR code sample2- cranky",
+  "description": "A Node.js app using Express 4, deplyed to heroku, and using the New Relic Add-on",
+  "repository": "https://github.com/kylelange/heroku-test",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"
 }
