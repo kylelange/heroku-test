@@ -1,6 +1,6 @@
 {
   "name": "Express NR code sample2- cranky",
-  "description": "A Node.js app using Express 4, deplyed to heroku, and using the New Relic Add-on",
+  "description": "A Node.js app using Express 4, deplyed to heroku, and using the New Relic add-on",
   "repository": "https://github.com/kylelange/heroku-test",
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs"

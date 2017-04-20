@@ -4,9 +4,12 @@
 
 ##### By _**Kyle Lange**_
 
-### _[See it live](https://powerful-wave-18447.herokuapp.com/cool) on heroku._
+### _[See it live](https://powerful-wave-18447.herokuapp.com/cool) on heroku:_
 
-Hat Tip: This app uses code from the [heroku tutorial](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) on deploying an app with Node.js and using the New Relic add-on
+######         https://powerful-wave-18447.herokuapp.com/cool
+
+
+    Hat Tip: This app uses code from the [heroku tutorial](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) on deploying an app with Node.js and using the New Relic add-on
 
 ![screenshot](heroku-screenshot.png)
 
@@ -19,7 +22,7 @@ Hat Tip: This app uses code from the [heroku tutorial](https://devcenter.heroku.
 * how to view terminal logs
 * modify/create the procfile
 * how to set up the New Relic [Add-on](https://docs.newrelic.com/docs/agents/nodejs-agent/hosting-services/nodejs-agent-heroku)
-* 
+*
 
 
 
