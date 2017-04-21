@@ -6,7 +6,7 @@
 
 ### _[See it live](https://powerful-wave-18447.herokuapp.com/cool) on heroku:_
 
-    Hat Tip: This app uses code from the [heroku tutorial](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) on deploying an app with Node.js and using the New Relic add-on
+Hat Tip: This app uses code from the [heroku tutorial](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) on deploying an app with Node.js and using the New Relic add-on
 
 ![screenshot](heroku-screenshot.png)
 
