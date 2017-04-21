@@ -8,6 +8,8 @@
 
 Hat Tip: This app uses code from the [heroku tutorial](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) on deploying an app with Node.js and using the New Relic add-on
 
+![screenshot](ascii-screenshot.png)
+
 ![screenshot](heroku-screenshot.png)
 
 ![screenshot](APM-screenshot.png)
